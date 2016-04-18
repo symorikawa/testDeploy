@@ -1,0 +1,8 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "ROOT_URL": "http://testdeploysy.meteorapp.com/",
+       "MONGO_URL": "mongodb://testAppUser:qwerty123@ds011281.mlab.com:11281/testapp_mongodb"
+     }
+   }
+}
